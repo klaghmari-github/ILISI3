@@ -1,0 +1,1 @@
+docker run -it --name python --hostname python -p 8888:8888 -v "$(pwd):/shared" laghmari/bigdata:python
