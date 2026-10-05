@@ -13,13 +13,15 @@ il y a un script "*.sh" dans chaque dossier de module. ce script permet simpleme
 
 # Dans la plateforme github :
 
-**créer un compte github si ce n'est pas déjà fait.**
+**créer un compte github si ce n'est pas déjà fait (le compte est pour usage professionnel et donc doit contenir votre nom et eventuellement prénom).**
 
-**créer un repo privé ILISI3 dans votre espace github.**
+**créer un repo privé vide (ne cocher pas l'ajout d'un readme ou d'un .gitignore) ILISI3 dans votre espace github.**
+
+**ajouter moi (klaghmari-github) en tant que collaborateur sur le repo depuis les "settings" du projet via le menu "collaborateurs" à gauche.**
 
 # Dans votre machine (phase d'initialisation) :
 
-**Cloner votre dépôt privé vide (ne cocher pas l'ajout d'un readme ou d'un .gitignore):**
+**Cloner votre dépôt privé vide :**
 
 git clone https://github.com/"votrecomptegithub"/ILISI3.git
 
