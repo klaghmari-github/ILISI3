@@ -1,2 +1,5 @@
 accept.sh
 invitations.tsv
+
+docker_setup.sh
+docker_diagnostic.sh

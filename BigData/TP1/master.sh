@@ -1,1 +1,0 @@
-docker run -it --name master --hostname master -p 8888:8888 -v "$(pwd)/master:/shared" laghmari/bigdata:hadoop

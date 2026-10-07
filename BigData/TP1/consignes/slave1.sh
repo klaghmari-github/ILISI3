@@ -1,0 +1,1 @@
+docker run --name slave1 --hostname slave1 -v "$(pwd)/slave1:/shared" -it laghmari/bigdata:hadoop
