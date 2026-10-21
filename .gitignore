@@ -5,3 +5,4 @@ docker_setup.sh
 docker_diagnostic.sh
 
 **.pptx
+**.ipynb_checkpoints
