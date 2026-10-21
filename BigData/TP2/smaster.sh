@@ -1,1 +1,1 @@
-docker run --name smaster --hostname smaster -p 7070:7070  -v -v "$(pwd)/smaster:/shared" -it laghmari/bigdata:spark bash
+docker run --name smaster --hostname smaster -p 7070:7070  -v "$(pwd)/smaster:/shared" -it laghmari/bigdata:spark bash
