@@ -1,1 +1,1 @@
-docker run --name sslave1 --hostname sslave1 -p 7040:7040  -v "$(pwd)/sslave1:/shared" -it laghmari/bigdata:spark bash
+docker run --name sslave1 --hostname sslave1 -p 8081:8081  -v "$(pwd)/sslave1:/shared" -it laghmari/bigdata:spark bash
